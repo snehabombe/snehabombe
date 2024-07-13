@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snehabombe
-- 👀 I’m interested in cyber security and data analysis.
 - 🌱 I’m currently studying MSc. Computer Science from Ruia college 
-- 💞️ I’m looking for an internship in data analysis 
+- 💞️ I’m looking for an internship / Job
 - 📫 Reach me at snehabombe9@gmail.com
 
 <!---
